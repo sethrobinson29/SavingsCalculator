@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Savings Calculator
 
 # Summarize the project and what problem it was solving
 My program calculated yearly and monthly returns on a savings account with monthly investments; allowing the user to select an initial deposit, a monthly deposit, and how long to display results for, as well as the option to display the balance of the savings account monthyly for 12 months, or yearly.
